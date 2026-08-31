@@ -1,0 +1,63 @@
+about:
+  description: Command Line Interface for Scaleway
+  license: Apache-2.0
+  homepage: https://cli.scaleway.com
+  head: 5b5c20f
+  archived: false
+  latestVersion: v2.61.0
+  collectedAt: 2026-08-31T05:20:11Z
+timeline:
+  created: 2015-03-20
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-18
+popularity:
+  star: 996
+  watcher: 23
+  fork: 171
+  release: 112
+  contributor: 83
+  pullRequest: 1747
+  issue: 1048
+language:
+  Go: 4060988
+  JavaScript: 20781
+  Shell: 10101
+  TypeScript: 5166
+  PowerShell: 1834
+  Go Template: 1259
+  Dockerfile: 982
+  Makefile: 411
+totalLine: 4101522
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 65
+    openPR: 4
+    closedIssue: 2
+    openIssue: 3
+    commit: 59
+  last90d:
+    since: 2026-06-02
+    release: 6
+    mergedPR: 238
+    openPR: 12
+    closedIssue: 8
+    openIssue: 15
+    commit: 227
+  last180d:
+    since: 2026-03-04
+    release: 11
+    mergedPR: 401
+    openPR: 14
+    closedIssue: 22
+    openIssue: 47
+    commit: 396
+  last360d:
+    since: 2025-09-05
+    release: 21
+    mergedPR: 676
+    openPR: 19
+    closedIssue: 36
+    openIssue: 68
+    commit: 662
