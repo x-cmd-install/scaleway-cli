@@ -7,13 +7,13 @@ about:
   head: 5d11d4b
   archived: false
   latestVersion: v2.62.0
-  collectedAt: 2026-09-05T03:50:23Z
+  collectedAt: 2026-09-05T19:17:14Z
 timeline:
   created: 2015-03-20
   lastCommit: 2026-09-04
   lastRelease: 2026-09-01
 popularity:
-  star: 996
+  star: 997
   watcher: 26
   fork: 172
   release: 113
@@ -88,7 +88,7 @@ total:
   commit: 3015
 ---
 path: /home/runner/.x-repo/github.com/scaleway/scaleway-cli
-collectedAt: 2026-09-05T03:50:27Z
+collectedAt: 2026-09-05T19:17:17Z
 loc:
   Yaml:
     code: 424761
