@@ -5,7 +5,7 @@ about:
   head: bede29c
   archived: false
   latestVersion: "v2.62.0"
-  collectedAt: 2026-09-08T02:37:18Z
+  collectedAt: 2026-09-08T05:19:59Z
 timeline:
   created: 2015-03-20
   lastCommit: 2026-09-07
@@ -86,7 +86,7 @@ total:
   commit: 3020
 ---
 path: /home/runner/.x-repo/github.com/scaleway/scaleway-cli
-collectedAt: 2026-09-08T02:37:24Z
+collectedAt: 2026-09-08T05:20:14Z
 loc:
   Yaml:
     code: 424761
