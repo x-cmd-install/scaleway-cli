@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.62.0"
   latestRelease: "v2.62.0"
   latestPrerelease: "v2.0.0-beta.4"
-  collectedAt: 2026-09-10T17:20:22Z
+  collectedAt: 2026-09-10T21:42:29Z
 timeline:
   created: 2015-03-20
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 3040
 ---
 path: /home/runner/.x-repo/github.com/scaleway/scaleway-cli
-collectedAt: 2026-09-10T17:20:32Z
+collectedAt: 2026-09-10T21:42:38Z
 loc:
   Yaml:
     code: 424761
