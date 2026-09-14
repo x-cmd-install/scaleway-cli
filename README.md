@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 84 | 17 | 3 | 12 | 86 |
-| last60d | 2026-07-15 | 4 | 169 | 19 | 6 | 13 | 171 |
-| 90d | 2026-06-15 | 6 | 241 | 21 | 8 | 21 | 253 |
-| last180d | 2026-03-17 | 11 | 432 | 28 | 23 | 56 | 432 |
-| 360d | 2025-09-18 | 22 | 706 | 33 | 39 | 78 | 703 |
-| last720d | 2024-09-23 | 30 | 1250 | 38 | 78 | 132 | 1259 |
+| 30d | 2026-08-15 | 2 | 84 | 17 | 3 | 12 | 73 |
+| last60d | 2026-07-16 | 4 | 166 | 19 | 6 | 13 | 155 |
+| 90d | 2026-06-16 | 5 | 237 | 21 | 7 | 21 | 226 |
+| last180d | 2026-03-18 | 11 | 429 | 28 | 23 | 56 | 419 |
+| 360d | 2025-09-19 | 22 | 706 | 33 | 39 | 78 | 699 |
+| last720d | 2024-09-24 | 30 | 1249 | 38 | 78 | 132 | 1255 |
 
 ## Release assets
 
@@ -82,17 +82,6 @@ Lowest-scoring checks:
 | [scaleway-cli_2.62.0_windows_arm64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.62.0/scaleway-cli_2.62.0_windows_arm64.exe) | 49.6 MiB | `native/win/arm64` |
 | [SHA256SUMS](https://github.com/scaleway/scaleway-cli/releases/download/v2.62.0/SHA256SUMS) | 1.1 KiB | `other` |
 
-## Distribution status
-
-Reported by **33** distros on [repology.org](https://repology.org/project/scaleway-cli). **2** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.55.0` | ⚠️ outdated |
-| Nix unstable | `2.62.0` | ✅ latest |
-| Void | `2.45.0` | ⚠️ outdated |
-| Alpine edge | `2.58.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `scaleway-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +91,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:36:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:48:21Z._
