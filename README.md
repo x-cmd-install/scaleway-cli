@@ -14,12 +14,12 @@ x install scaleway-cli
 
 ## Code insight
 
-Total: **561,211** lines of code across **1001** files in the top 5 languages.
+Total: **563,493** lines of code across **1029** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 424,761 | 0 | 279 | 426 |
-| Go | 134,467 | 4,318 | 13,372 | 564 |
+| Go | 136,749 | 4,372 | 13,860 | 592 |
 | Json | 659 | 0 | 0 | 4 |
 | JavaScript | 613 | 42 | 68 | 5 |
 | Toml | 418 | 6 | 28 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.62.0` (2026-09-01)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 996 · **Forks**: 172 · **Open issues**: 1,061 · **Contributors**: 85
+- **Stars**: 997 · **Forks**: 172 · **Open issues**: 1,061 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 3375 · **Open PRs**: 19 · **Closed issues**: 819 · **Open issues**: 242 · **Commits**: 3089
+- **Releases**: 113 · **Merged PRs**: 3378 · **Open PRs**: 18 · **Closed issues**: 819 · **Open issues**: 242 · **Commits**: 3092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 1 | 109 | 10 | 3 | 10 | 102 |
-| last60d | 2026-07-25 | 3 | 185 | 10 | 7 | 12 | 179 |
-| 90d | 2026-06-25 | 4 | 260 | 10 | 7 | 19 | 256 |
-| last180d | 2026-03-27 | 11 | 458 | 17 | 23 | 54 | 452 |
-| 360d | 2025-09-28 | 21 | 744 | 19 | 40 | 76 | 729 |
-| last720d | 2024-10-03 | 30 | 1284 | 19 | 77 | 130 | 1291 |
+| 30d | 2026-08-25 | 1 | 108 | 10 | 3 | 10 | 105 |
+| last60d | 2026-07-26 | 3 | 187 | 10 | 7 | 12 | 182 |
+| 90d | 2026-06-26 | 4 | 259 | 10 | 7 | 19 | 259 |
+| last180d | 2026-03-28 | 11 | 461 | 16 | 23 | 54 | 455 |
+| 360d | 2025-09-29 | 21 | 743 | 18 | 40 | 76 | 732 |
+| last720d | 2024-10-04 | 30 | 1283 | 18 | 77 | 130 | 1293 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:46:43Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:14:23Z._
