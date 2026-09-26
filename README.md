@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.62.0` (2026-09-01)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-25
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 997 · **Forks**: 172 · **Open issues**: 1,061 · **Contributors**: 85
+- **Stars**: 997 · **Forks**: 172 · **Open issues**: 1,062 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 113 · **Merged PRs**: 3381 · **Open PRs**: 18 · **Closed issues**: 819 · **Open issues**: 242 · **Commits**: 3095
+- **Releases**: 113 · **Merged PRs**: 3382 · **Open PRs**: 20 · **Closed issues**: 819 · **Open issues**: 243 · **Commits**: 3096
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 108 | 10 | 3 | 10 | 108 |
-| last60d | 2026-07-27 | 3 | 188 | 10 | 7 | 12 | 185 |
-| 90d | 2026-06-27 | 4 | 262 | 10 | 7 | 19 | 262 |
-| last180d | 2026-03-29 | 11 | 464 | 16 | 23 | 54 | 458 |
-| 360d | 2025-09-30 | 21 | 745 | 18 | 40 | 76 | 735 |
-| last720d | 2024-10-05 | 30 | 1286 | 18 | 77 | 130 | 1291 |
+| 30d | 2026-08-27 | 1 | 106 | 12 | 3 | 11 | 109 |
+| last60d | 2026-07-28 | 3 | 183 | 12 | 6 | 13 | 186 |
+| 90d | 2026-06-28 | 4 | 263 | 12 | 7 | 20 | 263 |
+| last180d | 2026-03-30 | 11 | 464 | 18 | 23 | 55 | 459 |
+| 360d | 2025-10-01 | 21 | 741 | 20 | 40 | 77 | 736 |
+| last720d | 2024-10-06 | 30 | 1287 | 20 | 77 | 131 | 1292 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:27:45Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:32:34Z._
