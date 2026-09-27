@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 997 · **Forks**: 172 · **Open issues**: 1,062 · **Contributors**: 85
+- **Stars**: 998 · **Forks**: 172 · **Open issues**: 1,062 · **Contributors**: 85
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 106 | 12 | 3 | 11 | 109 |
-| last60d | 2026-07-28 | 3 | 183 | 12 | 6 | 13 | 186 |
-| 90d | 2026-06-28 | 4 | 263 | 12 | 7 | 20 | 263 |
-| last180d | 2026-03-30 | 11 | 464 | 18 | 23 | 55 | 459 |
-| 360d | 2025-10-01 | 21 | 741 | 20 | 40 | 77 | 736 |
-| last720d | 2024-10-06 | 30 | 1287 | 20 | 77 | 131 | 1292 |
+| 30d | 2026-08-28 | 1 | 102 | 11 | 3 | 11 | 109 |
+| last60d | 2026-07-29 | 3 | 180 | 12 | 6 | 13 | 186 |
+| 90d | 2026-06-29 | 4 | 261 | 12 | 7 | 20 | 263 |
+| last180d | 2026-03-31 | 11 | 461 | 18 | 23 | 55 | 459 |
+| 360d | 2025-10-02 | 21 | 738 | 20 | 40 | 76 | 736 |
+| last720d | 2024-10-07 | 30 | 1285 | 20 | 77 | 131 | 1292 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:32:34Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:48:29Z._
