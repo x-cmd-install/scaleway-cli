@@ -14,12 +14,12 @@ x install scaleway-cli
 
 ## Code insight
 
-Total: **536,232** lines of code across **1035** files in the top 5 languages.
+Total: **536,234** lines of code across **1035** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Yaml | 396,952 | 0 | 279 | 427 |
-| Go | 137,266 | 4,375 | 13,940 | 597 |
+| Go | 137,268 | 4,375 | 13,940 | 597 |
 | Json | 659 | 0 | 0 | 4 |
 | JavaScript | 613 | 42 | 68 | 5 |
 | Toml | 448 | 6 | 29 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.63.0` (2026-09-28)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 18
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 3396 · **Open PRs**: 20 · **Closed issues**: 826 · **Open issues**: 240 · **Commits**: 3110
+- **Releases**: 114 · **Merged PRs**: 3400 · **Open PRs**: 25 · **Closed issues**: 826 · **Open issues**: 240 · **Commits**: 3114
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 100 | 10 | 9 | 8 | 98 |
-| last60d | 2026-08-02 | 3 | 180 | 13 | 11 | 11 | 178 |
-| 90d | 2026-07-03 | 5 | 250 | 13 | 13 | 15 | 251 |
-| last180d | 2026-04-04 | 11 | 461 | 18 | 30 | 52 | 469 |
-| 360d | 2025-10-06 | 22 | 750 | 20 | 47 | 73 | 741 |
-| last720d | 2024-10-11 | 31 | 1294 | 20 | 84 | 128 | 1301 |
+| 30d | 2026-09-02 | 1 | 99 | 15 | 8 | 8 | 102 |
+| last60d | 2026-08-03 | 3 | 183 | 18 | 11 | 11 | 182 |
+| 90d | 2026-07-04 | 5 | 254 | 18 | 13 | 15 | 255 |
+| last180d | 2026-04-05 | 11 | 465 | 23 | 30 | 52 | 473 |
+| 360d | 2025-10-07 | 21 | 753 | 25 | 47 | 73 | 745 |
+| last720d | 2024-10-12 | 31 | 1298 | 25 | 84 | 128 | 1303 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:25:30Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:08:31Z._
