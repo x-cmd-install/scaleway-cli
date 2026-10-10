@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 58215152,
       "digest": "sha256:426509895082195428121de79720a4de3d9e9c1a51117f0a99050d7baf419f71",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-07T16:01:32Z",
       "updated_at": "2026-10-07T16:01:36Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_darwin_amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 53702994,
       "digest": "sha256:55db3c479ba97ce4642ba10ebd52ffba9069ffddd7f2281575bcfb4da00d7929",
-      "download_count": 18,
+      "download_count": 39,
       "created_at": "2026-10-07T16:01:36Z",
       "updated_at": "2026-10-07T16:01:44Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_darwin_arm64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 56856736,
       "digest": "sha256:b9ced8bc52c27baba76136a24e65a5e0abd53e9499edf02226513977d45da503",
-      "download_count": 1830,
+      "download_count": 3119,
       "created_at": "2026-10-07T16:01:32Z",
       "updated_at": "2026-10-07T16:01:35Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_linux_amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 18494464,
       "digest": "sha256:86e68ad06c5d442d759e5ae13a77f2fdba5155d20b1f40d9b13f365012061d0a",
-      "download_count": 4,
+      "download_count": 12,
       "created_at": "2026-10-07T16:01:39Z",
       "updated_at": "2026-10-07T16:01:43Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_linux_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 18495769,
       "digest": "sha256:46dc0ad49569f79b410750343c36cd1e104d1ec70d5e8a94063ff0aace746b27",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-07T16:01:36Z",
       "updated_at": "2026-10-07T16:01:42Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_linux_amd64.rpm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 51970208,
       "digest": "sha256:3edca9a1640879d13c45a23dd425e2e919663de1919aa4698e71b349acb884e3",
-      "download_count": 30,
+      "download_count": 53,
       "created_at": "2026-10-07T16:01:32Z",
       "updated_at": "2026-10-07T16:01:35Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_linux_arm64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 58132992,
       "digest": "sha256:7a384816863671eb9c31659e90741ae12419fc8dccdb25583ec1e01b60762c6b",
-      "download_count": 27,
+      "download_count": 35,
       "created_at": "2026-10-07T16:01:36Z",
       "updated_at": "2026-10-07T16:01:44Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/scaleway-cli_2.65.1_windows_amd64.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 1706,
       "digest": "sha256:5fb0b6445fbebb771c4c0eafc112b564fd6d8d59448ef6a4e04907744906faf3",
-      "download_count": 115,
+      "download_count": 186,
       "created_at": "2026-10-07T16:01:42Z",
       "updated_at": "2026-10-07T16:01:43Z",
       "browser_download_url": "https://github.com/scaleway/scaleway-cli/releases/download/v2.65.1/SHA256SUMS"
