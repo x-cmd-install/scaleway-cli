@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 4 | 106 | 17 | 13 | 12 | 113 |
-| last60d | 2026-08-18 | 6 | 216 | 23 | 22 | 18 | 218 |
-| 90d | 2026-07-19 | 8 | 302 | 23 | 25 | 19 | 301 |
-| last180d | 2026-04-20 | 14 | 513 | 25 | 41 | 56 | 509 |
-| 360d | 2025-10-22 | 23 | 801 | 26 | 64 | 75 | 794 |
-| last720d | 2024-10-27 | 34 | 1351 | 26 | 109 | 118 | 1354 |
+| 30d | 2026-09-18 | 4 | 104 | 18 | 13 | 12 | 113 |
+| last60d | 2026-08-19 | 5 | 216 | 23 | 21 | 18 | 218 |
+| 90d | 2026-07-20 | 8 | 296 | 23 | 25 | 19 | 301 |
+| last180d | 2026-04-21 | 13 | 513 | 25 | 40 | 44 | 509 |
+| 360d | 2025-10-23 | 23 | 798 | 26 | 63 | 75 | 794 |
+| last720d | 2024-10-28 | 34 | 1348 | 26 | 109 | 118 | 1354 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:58:12Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T05:06:12Z._
