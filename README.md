@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 3503 · **Open PRs**: 40 · **Closed issues**: 878 · **Open issues**: 218 · **Commits**: 3217
+- **Releases**: 118 · **Merged PRs**: 3503 · **Open PRs**: 41 · **Closed issues**: 878 · **Open issues**: 218 · **Commits**: 3217
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 5 | 117 | 31 | 17 | 17 | 120 |
-| last60d | 2026-08-26 | 6 | 228 | 37 | 24 | 24 | 233 |
-| 90d | 2026-07-27 | 8 | 308 | 37 | 29 | 25 | 311 |
-| last180d | 2026-04-28 | 14 | 528 | 39 | 42 | 44 | 526 |
-| 360d | 2025-10-30 | 24 | 809 | 40 | 67 | 81 | 804 |
-| last720d | 2024-11-04 | 35 | 1366 | 40 | 114 | 122 | 1373 |
+| 30d | 2026-09-26 | 5 | 117 | 32 | 17 | 17 | 101 |
+| last60d | 2026-08-27 | 6 | 225 | 38 | 24 | 24 | 214 |
+| 90d | 2026-07-28 | 8 | 302 | 38 | 28 | 25 | 296 |
+| last180d | 2026-04-29 | 14 | 526 | 40 | 42 | 44 | 511 |
+| 360d | 2025-10-31 | 24 | 800 | 41 | 67 | 80 | 791 |
+| last720d | 2024-11-05 | 35 | 1364 | 41 | 114 | 122 | 1371 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:12:58Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:18:10Z._
