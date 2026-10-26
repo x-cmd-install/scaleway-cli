@@ -76,6 +76,18 @@
     - kommander@laposte.net
   licenses:
     - Apache-2.0
+- repo: pkgsrc_current
+  srcname: net/scaleway-cli
+  binname: scaleway-cli
+  visiblename: net/scaleway-cli
+  version: 2.56.1
+  origversion: 2.56.1nb8
+  status: outdated
+  summary: Command Line Interface for Scaleway
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: alpine_3_23
   subrepo: community
   srcname: scaleway-cli
@@ -363,19 +375,7 @@
   binname: scaleway-cli
   visiblename: net/scaleway-cli
   version: 2.56.1
-  origversion: 2.56.1nb6
-  status: outdated
-  summary: Command Line Interface for Scaleway
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
-- repo: pkgsrc_current
-  srcname: net/scaleway-cli
-  binname: scaleway-cli
-  visiblename: net/scaleway-cli
-  version: 2.56.1
-  origversion: 2.56.1nb8
+  origversion: 2.56.1nb7
   status: outdated
   summary: Command Line Interface for Scaleway
   maintainers:
