@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.65.2
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: scaleway-cli
@@ -33,6 +42,19 @@
   origversion: 2.37.0-r8
   status: outdated
   summary: Fish completions for scaleway-cli
+  maintainers:
+    - kommander@laposte.net
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: scaleway-cli
+  binname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.58.3
+  origversion: 2.58.3-r1
+  status: outdated
+  summary: Command-line client for Scaleway Cloud
   maintainers:
     - kommander@laposte.net
   licenses:
@@ -76,18 +98,6 @@
     - kommander@laposte.net
   licenses:
     - Apache-2.0
-- repo: pkgsrc_current
-  srcname: net/scaleway-cli
-  binname: scaleway-cli
-  visiblename: net/scaleway-cli
-  version: 2.56.1
-  origversion: 2.56.1nb8
-  status: outdated
-  summary: Command Line Interface for Scaleway
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: alpine_3_23
   subrepo: community
   srcname: scaleway-cli
@@ -166,17 +176,15 @@
     - kommander@laposte.net
   licenses:
     - Apache-2.0
-- repo: alpine_edge
-  subrepo: community
+- repo: parabola
+  subrepo: extra
   srcname: scaleway-cli
   binname: scaleway-cli
   visiblename: scaleway-cli
-  version: 2.58.3
-  origversion: 2.58.3-r0
+  version: 2.65.1
+  origversion: 2.65.1-1
   status: outdated
-  summary: Command-line client for Scaleway Cloud
-  maintainers:
-    - kommander@laposte.net
+  summary: Command line interface for Scaleway Cloud
   licenses:
     - Apache-2.0
 - repo: alpine_edge
@@ -185,7 +193,7 @@
   binname: scaleway-cli-bash-completion
   visiblename: scaleway-cli-bash-completion
   version: 2.58.3
-  origversion: 2.58.3-r0
+  origversion: 2.58.3-r1
   status: outdated
   summary: Bash completions for scaleway-cli
   maintainers:
@@ -198,7 +206,7 @@
   binname: scaleway-cli-fish-completion
   visiblename: scaleway-cli-fish-completion
   version: 2.58.3
-  origversion: 2.58.3-r0
+  origversion: 2.58.3-r1
   status: outdated
   summary: Fish completions for scaleway-cli
   maintainers:
@@ -211,7 +219,7 @@
   binname: scaleway-cli-zsh-completion
   visiblename: scaleway-cli-zsh-completion
   version: 2.58.3
-  origversion: 2.58.3-r0
+  origversion: 2.58.3-r1
   status: outdated
   summary: Zsh completions for scaleway-cli
   maintainers:
@@ -347,17 +355,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: scaleway-cli
-  binname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.65.1
-  origversion: 2.65.1-1
-  status: outdated
-  summary: Command line interface for Scaleway Cloud
-  licenses:
-    - Apache-2.0
 - repo: pkgsrc_2026_2
   srcname: net/scaleway-cli
   binname: scaleway-cli
@@ -382,15 +379,18 @@
     - pkgsrc-users@netbsd.org
   categories:
     - net
-- repo: scoop
-  subrepo: main
+- repo: pkgsrc_current
+  srcname: net/scaleway-cli
   binname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.65.2
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
+  visiblename: net/scaleway-cli
+  version: 2.56.1
+  origversion: 2.56.1nb8
+  status: outdated
+  summary: Command Line Interface for Scaleway
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: void_x86_64
   subrepo: x86_64
   srcname: scaleway-cli
