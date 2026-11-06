@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.65.2` (2026-10-21)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,021 · **Forks**: 175 · **Open issues**: 1,103 · **Contributors**: 89
+- **Stars**: 1,021 · **Forks**: 175 · **Open issues**: 1,104 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 3556 · **Open PRs**: 27 · **Closed issues**: 887 · **Open issues**: 216 · **Commits**: 3270
+- **Releases**: 118 · **Merged PRs**: 3558 · **Open PRs**: 29 · **Closed issues**: 887 · **Open issues**: 217 · **Commits**: 3272
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 126 | 19 | 13 | 19 | 117 |
-| last60d | 2026-09-06 | 5 | 241 | 24 | 25 | 28 | 244 |
-| 90d | 2026-08-07 | 7 | 320 | 26 | 29 | 29 | 326 |
-| last180d | 2026-05-09 | 14 | 561 | 27 | 48 | 45 | 555 |
-| 360d | 2025-11-10 | 24 | 840 | 27 | 72 | 80 | 832 |
-| last720d | 2024-11-15 | 35 | 1402 | 27 | 119 | 123 | 1408 |
+| 30d | 2026-10-07 | 3 | 119 | 19 | 12 | 20 | 119 |
+| last60d | 2026-09-07 | 5 | 238 | 26 | 25 | 28 | 246 |
+| 90d | 2026-08-08 | 7 | 322 | 28 | 29 | 30 | 328 |
+| last180d | 2026-05-10 | 14 | 563 | 29 | 47 | 46 | 557 |
+| 360d | 2025-11-11 | 24 | 842 | 29 | 72 | 81 | 834 |
+| last720d | 2024-11-16 | 35 | 1404 | 29 | 119 | 124 | 1409 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:19:06Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:15:52Z._
