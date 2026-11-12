@@ -1,3 +1,42 @@
+- repo: nix_stable_24_05
+  srcname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.27.0
+  origversion: null
+  status: outdated
+  summary: Interact with Scaleway API from the command line
+  maintainers:
+    - me@nickhu.co.uk
+    - techknowlogick@gitea.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.34.0
+  origversion: null
+  status: outdated
+  summary: Interact with Scaleway API from the command line
+  maintainers:
+    - me@nickhu.co.uk
+    - techknowlogick@gitea.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.39.0
+  origversion: null
+  status: outdated
+  summary: Interact with Scaleway API from the command line
+  maintainers:
+    - me@nickhu.co.uk
+    - techknowlogick@gitea.com
+    - supra4keanu@hotmail.com
+  licenses:
+    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: scaleway-cli
@@ -76,18 +115,6 @@
     - kommander@laposte.net
   licenses:
     - Apache-2.0
-- repo: pkgsrc_current
-  srcname: net/scaleway-cli
-  binname: scaleway-cli
-  visiblename: net/scaleway-cli
-  version: 2.56.1
-  origversion: 2.56.1nb8
-  status: outdated
-  summary: Command Line Interface for Scaleway
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: alpine_3_23
   subrepo: community
   srcname: scaleway-cli
@@ -269,45 +296,6 @@
   summary: Command line interface for Scaleway Cloud
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.27.0
-  origversion: null
-  status: outdated
-  summary: Interact with Scaleway API from the command line
-  maintainers:
-    - me@nickhu.co.uk
-    - techknowlogick@gitea.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.34.0
-  origversion: null
-  status: outdated
-  summary: Interact with Scaleway API from the command line
-  maintainers:
-    - me@nickhu.co.uk
-    - techknowlogick@gitea.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.39.0
-  origversion: null
-  status: outdated
-  summary: Interact with Scaleway API from the command line
-  maintainers:
-    - me@nickhu.co.uk
-    - techknowlogick@gitea.com
-    - supra4keanu@hotmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: scaleway-cli
   visiblename: scaleway-cli
@@ -376,6 +364,18 @@
   visiblename: net/scaleway-cli
   version: 2.56.1
   origversion: 2.56.1nb7
+  status: outdated
+  summary: Command Line Interface for Scaleway
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
+- repo: pkgsrc_current
+  srcname: net/scaleway-cli
+  binname: scaleway-cli
+  visiblename: net/scaleway-cli
+  version: 2.56.1
+  origversion: 2.56.1nb9
   status: outdated
   summary: Command Line Interface for Scaleway
   maintainers:
