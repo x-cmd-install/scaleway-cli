@@ -14,25 +14,15 @@ x install scaleway-cli
 
 ## Code insight
 
-Total: **484,729** lines of code across **2781** files in the top 5 languages.
+Total: **488,088** lines of code across **2786** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 337,510 | 0 | 0 | 2122 |
-| Go | 145,680 | 4,776 | 14,904 | 653 |
+| Yaml | 340,657 | 0 | 0 | 2126 |
+| Go | 145,887 | 4,775 | 14,933 | 654 |
 | Json | 882 | 0 | 0 | 3 |
-| Toml | 450 | 6 | 32 | 2 |
+| Toml | 455 | 6 | 33 | 2 |
 | Sh | 62 | 7 | 18 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **6.9 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -42,51 +32,51 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.66.0` (2026-11-12)
-- **Last commit**: 2026-11-16
+- **Latest**: `v2.66.2` (2026-11-18)
+- **Last commit**: 2026-11-18
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,026 · **Forks**: 174 · **Open issues**: 1,118 · **Contributors**: 89
+- **Stars**: 1,027 · **Forks**: 174 · **Open issues**: 1,124 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 3615 · **Open PRs**: 37 · **Closed issues**: 892 · **Open issues**: 226 · **Commits**: 3329
+- **Releases**: 121 · **Merged PRs**: 3629 · **Open PRs**: 30 · **Closed issues**: 894 · **Open issues**: 230 · **Commits**: 3343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 131 | 23 | 10 | 21 | 114 |
-| last60d | 2026-09-18 | 6 | 241 | 32 | 24 | 33 | 238 |
-| 90d | 2026-08-19 | 7 | 354 | 36 | 33 | 38 | 350 |
-| last180d | 2026-05-21 | 14 | 600 | 37 | 48 | 50 | 595 |
-| 360d | 2025-11-22 | 24 | 878 | 37 | 77 | 84 | 867 |
-| last720d | 2024-11-27 | 36 | 1446 | 37 | 120 | 127 | 1450 |
+| 30d | 2026-10-20 | 4 | 129 | 13 | 9 | 23 | 128 |
+| last60d | 2026-09-20 | 8 | 255 | 25 | 26 | 37 | 252 |
+| 90d | 2026-08-21 | 9 | 362 | 29 | 35 | 42 | 364 |
+| last180d | 2026-05-23 | 16 | 613 | 30 | 50 | 54 | 609 |
+| 360d | 2025-11-24 | 26 | 890 | 30 | 78 | 88 | 881 |
+| last720d | 2024-11-29 | 38 | 1453 | 30 | 122 | 131 | 1459 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [scaleway-cli_2.66.0_darwin_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_darwin_amd64) | 57.9 MiB | `native/darwin/x64` |
-| [scaleway-cli_2.66.0_darwin_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_darwin_arm64) | 53.4 MiB | `native/darwin/arm64` |
-| [scaleway-cli_2.66.0_freebsd_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_freebsd_386) | 38.3 MiB | `other` |
-| [scaleway-cli_2.66.0_freebsd_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_freebsd_amd64) | 41.0 MiB | `other` |
-| [scaleway-cli_2.66.0_freebsd_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_freebsd_arm64) | 37.9 MiB | `other` |
-| [scaleway-cli_2.66.0_linux_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_386) | 52.5 MiB | `other` |
-| [scaleway-cli_2.66.0_linux_386.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_386.deb) | 16.8 MiB | `other` |
-| [scaleway-cli_2.66.0_linux_386.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_386.rpm) | 16.8 MiB | `other` |
-| [scaleway-cli_2.66.0_linux_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_amd64) | 56.1 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.0_linux_amd64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_amd64.deb) | 18.3 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.0_linux_amd64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_amd64.rpm) | 18.3 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.0_linux_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_arm64) | 51.3 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.0_linux_arm64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_arm64.deb) | 16.3 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.0_linux_arm64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_linux_arm64.rpm) | 16.3 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.0_windows_386.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_windows_386.exe) | 54.0 MiB | `native/win/x64` |
-| [scaleway-cli_2.66.0_windows_amd64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_windows_amd64.exe) | 57.3 MiB | `native/win/x64` |
-| [scaleway-cli_2.66.0_windows_arm64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/scaleway-cli_2.66.0_windows_arm64.exe) | 51.8 MiB | `native/win/arm64` |
-| [SHA256SUMS](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.0/SHA256SUMS) | 1.7 KiB | `other` |
+| [scaleway-cli_2.66.2_darwin_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_darwin_amd64) | 58.4 MiB | `native/darwin/x64` |
+| [scaleway-cli_2.66.2_darwin_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_darwin_arm64) | 53.9 MiB | `native/darwin/arm64` |
+| [scaleway-cli_2.66.2_freebsd_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_386) | 38.5 MiB | `other` |
+| [scaleway-cli_2.66.2_freebsd_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_amd64) | 41.2 MiB | `other` |
+| [scaleway-cli_2.66.2_freebsd_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_arm64) | 38.0 MiB | `other` |
+| [scaleway-cli_2.66.2_linux_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386) | 53.0 MiB | `other` |
+| [scaleway-cli_2.66.2_linux_386.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386.deb) | 17.0 MiB | `other` |
+| [scaleway-cli_2.66.2_linux_386.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386.rpm) | 17.0 MiB | `other` |
+| [scaleway-cli_2.66.2_linux_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64) | 56.6 MiB | `native/linux/x64` |
+| [scaleway-cli_2.66.2_linux_amd64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64.deb) | 18.5 MiB | `native/linux/x64` |
+| [scaleway-cli_2.66.2_linux_amd64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64.rpm) | 18.5 MiB | `native/linux/x64` |
+| [scaleway-cli_2.66.2_linux_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64) | 51.8 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.66.2_linux_arm64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64.deb) | 16.5 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.66.2_linux_arm64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64.rpm) | 16.5 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.66.2_windows_386.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_386.exe) | 54.5 MiB | `native/win/x64` |
+| [scaleway-cli_2.66.2_windows_amd64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_amd64.exe) | 57.8 MiB | `native/win/x64` |
+| [scaleway-cli_2.66.2_windows_arm64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_arm64.exe) | 52.3 MiB | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/SHA256SUMS) | 1.7 KiB | `other` |
 
 ## Distribution status
 
@@ -108,4 +98,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:22:19Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:35:02Z._
