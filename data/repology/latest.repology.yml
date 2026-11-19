@@ -1,4 +1,4 @@
-- repo: manjaro_testing
+- repo: parabola
   subrepo: extra
   srcname: scaleway-cli
   binname: scaleway-cli
@@ -9,47 +9,6 @@
   summary: Command line interface for Scaleway Cloud
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: scaleway-cli
-  binname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.65.1
-  origversion: 2.65.1-1
-  status: outdated
-  summary: Command line interface for Scaleway Cloud
-  licenses:
-    - Apache-2.0
-- repo: chocolatey
-  binname: scaleway-cli
-  visiblename: scaleway-cli (Install)
-  version: 2.33.0
-  origversion: null
-  status: outdated
-  summary: Interact with Scaleway API from the command line.
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: scaleway-cli
-  binname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.55.0
-  origversion: 2.55.0-1
-  status: outdated
-  summary: Command line interface for Scaleway Cloud
-  licenses:
-    - Apache-2.0
-- repo: pkgsrc_current
-  srcname: net/scaleway-cli
-  binname: scaleway-cli
-  visiblename: net/scaleway-cli
-  version: 2.56.1
-  origversion: 2.56.1nb9
-  status: outdated
-  summary: Command Line Interface for Scaleway
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - net
 - repo: alpine_3_22
   subrepo: community
   srcname: scaleway-cli
@@ -269,6 +228,46 @@
   summary: Command line interface for Scaleway Cloud
   licenses:
     - Apache-2.0
+- repo: chocolatey
+  binname: scaleway-cli
+  visiblename: scaleway-cli (Install)
+  version: 2.33.0
+  origversion: null
+  status: outdated
+  summary: Interact with Scaleway API from the command line.
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: scaleway-cli
+  binname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.55.0
+  origversion: 2.55.0-1
+  status: outdated
+  summary: Command line interface for Scaleway Cloud
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: scaleway-cli
+  binname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.65.1
+  origversion: 2.65.1-1
+  status: outdated
+  summary: Command line interface for Scaleway Cloud
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: scaleway-cli
+  binname: scaleway-cli
+  visiblename: scaleway-cli
+  version: 2.65.1
+  origversion: 2.65.1-1
+  status: outdated
+  summary: Command line interface for Scaleway Cloud
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: scaleway-cli
   visiblename: scaleway-cli
@@ -347,17 +346,6 @@
     - supra4keanu@hotmail.com
   licenses:
     - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: scaleway-cli
-  binname: scaleway-cli
-  visiblename: scaleway-cli
-  version: 2.65.1
-  origversion: 2.65.1-1
-  status: outdated
-  summary: Command line interface for Scaleway Cloud
-  licenses:
-    - Apache-2.0
 - repo: pkgsrc_2026_2
   srcname: net/scaleway-cli
   binname: scaleway-cli
@@ -382,11 +370,23 @@
     - pkgsrc-users@netbsd.org
   categories:
     - net
+- repo: pkgsrc_current
+  srcname: net/scaleway-cli
+  binname: scaleway-cli
+  visiblename: net/scaleway-cli
+  version: 2.56.1
+  origversion: 2.56.1nb9
+  status: outdated
+  summary: Command Line Interface for Scaleway
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - net
 - repo: scoop
   subrepo: main
   binname: scaleway-cli
   visiblename: scaleway-cli
-  version: 2.66.0
+  version: 2.66.2
   origversion: null
   status: newest
   licenses:
