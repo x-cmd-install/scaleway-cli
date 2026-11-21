@@ -38,22 +38,22 @@ Total: **488,166** lines of code across **2786** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,027 · **Forks**: 174 · **Open issues**: 1,124 · **Contributors**: 89
+- **Stars**: 1,027 · **Forks**: 174 · **Open issues**: 1,126 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 3633 · **Open PRs**: 29 · **Closed issues**: 894 · **Open issues**: 230 · **Commits**: 3347
+- **Releases**: 121 · **Merged PRs**: 3633 · **Open PRs**: 49 · **Closed issues**: 894 · **Open issues**: 232 · **Commits**: 3347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 123 | 13 | 7 | 22 | 132 |
-| last60d | 2026-09-21 | 8 | 256 | 25 | 26 | 37 | 256 |
-| 90d | 2026-08-22 | 9 | 366 | 28 | 35 | 42 | 368 |
-| last180d | 2026-05-24 | 16 | 617 | 29 | 50 | 54 | 613 |
-| 360d | 2025-11-25 | 26 | 891 | 29 | 78 | 88 | 885 |
-| last720d | 2024-11-30 | 37 | 1457 | 29 | 122 | 131 | 1461 |
+| 30d | 2026-10-22 | 3 | 121 | 33 | 7 | 23 | 132 |
+| last60d | 2026-09-22 | 8 | 250 | 44 | 26 | 39 | 256 |
+| 90d | 2026-08-23 | 9 | 366 | 48 | 35 | 44 | 368 |
+| last180d | 2026-05-25 | 16 | 615 | 49 | 50 | 54 | 613 |
+| 360d | 2025-11-26 | 26 | 888 | 49 | 78 | 90 | 885 |
+| last720d | 2024-12-01 | 37 | 1456 | 49 | 121 | 133 | 1461 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:43:12Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:36:25Z._
