@@ -48,12 +48,12 @@ Total: **488,166** lines of code across **2786** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 121 | 33 | 7 | 23 | 132 |
-| last60d | 2026-09-22 | 8 | 250 | 44 | 26 | 39 | 256 |
-| 90d | 2026-08-23 | 9 | 366 | 48 | 35 | 44 | 368 |
-| last180d | 2026-05-25 | 16 | 615 | 49 | 50 | 54 | 613 |
-| 360d | 2025-11-26 | 26 | 888 | 49 | 78 | 90 | 885 |
-| last720d | 2024-12-01 | 37 | 1456 | 49 | 121 | 133 | 1461 |
+| 30d | 2026-10-23 | 3 | 119 | 33 | 7 | 23 | 101 |
+| last60d | 2026-09-23 | 8 | 248 | 44 | 26 | 39 | 240 |
+| 90d | 2026-08-24 | 9 | 362 | 48 | 34 | 44 | 350 |
+| last180d | 2026-05-26 | 15 | 610 | 49 | 50 | 53 | 600 |
+| 360d | 2025-11-27 | 26 | 884 | 49 | 77 | 89 | 863 |
+| last720d | 2024-12-02 | 37 | 1454 | 49 | 121 | 133 | 1461 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:36:25Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:44:47Z._
