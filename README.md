@@ -33,27 +33,27 @@ Total: **488,166** lines of code across **2786** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.66.2` (2026-11-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 1,027 · **Forks**: 174 · **Open issues**: 1,126 · **Contributors**: 89
+- **Stars**: 1,028 · **Forks**: 174 · **Open issues**: 1,126 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 3633 · **Open PRs**: 49 · **Closed issues**: 894 · **Open issues**: 232 · **Commits**: 3347
+- **Releases**: 121 · **Merged PRs**: 3634 · **Open PRs**: 51 · **Closed issues**: 894 · **Open issues**: 232 · **Commits**: 3348
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 119 | 33 | 7 | 23 | 101 |
-| last60d | 2026-09-23 | 8 | 248 | 44 | 26 | 39 | 240 |
-| 90d | 2026-08-24 | 9 | 362 | 48 | 34 | 44 | 350 |
-| last180d | 2026-05-26 | 15 | 610 | 49 | 50 | 53 | 600 |
-| 360d | 2025-11-27 | 26 | 884 | 49 | 77 | 89 | 863 |
-| last720d | 2024-12-02 | 37 | 1454 | 49 | 121 | 133 | 1461 |
+| 30d | 2026-10-24 | 3 | 120 | 34 | 7 | 23 | 102 |
+| last60d | 2026-09-24 | 8 | 246 | 46 | 26 | 39 | 241 |
+| 90d | 2026-08-25 | 9 | 360 | 50 | 34 | 44 | 351 |
+| last180d | 2026-05-27 | 15 | 609 | 51 | 50 | 53 | 601 |
+| 360d | 2025-11-28 | 26 | 880 | 51 | 76 | 89 | 864 |
+| last720d | 2024-12-03 | 37 | 1453 | 51 | 121 | 133 | 1460 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for scaleway-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:44:47Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:43:32Z._
