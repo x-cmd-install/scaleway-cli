@@ -14,12 +14,12 @@ x install scaleway-cli
 
 ## 代码洞察
 
-合计: **488,166** 行代码（覆盖前 5 种语言、共 **2786** 个文件）。
+合计: **488,302** 行代码（覆盖前 5 种语言、共 **2789** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Yaml | 340,657 | 0 | 0 | 2126 |
-| Go | 145,965 | 4,791 | 14,943 | 654 |
+| Yaml | 340,699 | 0 | 0 | 2127 |
+| Go | 146,059 | 4,793 | 14,966 | 656 |
 | Json | 882 | 0 | 0 | 3 |
 | Toml | 455 | 6 | 33 | 2 |
 | Sh | 62 | 7 | 18 | 1 |
@@ -32,51 +32,51 @@ x install scaleway-cli
 
 ## 发布
 
-- **最新版本**: `v2.66.2` (2026-11-18)
+- **最新版本**: `v2.67.0` (2026-11-23)
 - **最近提交**: 2026-11-23
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 1,028 · **Fork**: 174 · **开放 issue**: 1,126 · **贡献者**: 89
+- **Star**: 1,028 · **Fork**: 174 · **开放 issue**: 1,127 · **贡献者**: 89
 
 ## 累计统计
 
-- **发布数**: 121 · **已合并 PR**: 3634 · **开放 PR**: 51 · **已关闭 issue**: 894 · **开放 issue**: 232 · **提交数**: 3348
+- **发布数**: 122 · **已合并 PR**: 3638 · **开放 PR**: 60 · **已关闭 issue**: 895 · **开放 issue**: 232 · **提交数**: 3352
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 3 | 120 | 34 | 7 | 23 | 102 |
-| last60d | 2026-09-24 | 8 | 246 | 46 | 26 | 39 | 241 |
-| 90d | 2026-08-25 | 9 | 360 | 50 | 34 | 44 | 351 |
-| last180d | 2026-05-27 | 15 | 609 | 51 | 50 | 53 | 601 |
-| 360d | 2025-11-28 | 26 | 880 | 51 | 76 | 89 | 864 |
-| last720d | 2024-12-03 | 37 | 1453 | 51 | 121 | 133 | 1460 |
+| 30d | 2026-10-25 | 4 | 122 | 43 | 8 | 23 | 106 |
+| last60d | 2026-09-25 | 9 | 248 | 55 | 27 | 38 | 245 |
+| 90d | 2026-08-26 | 10 | 361 | 59 | 35 | 44 | 355 |
+| last180d | 2026-05-28 | 16 | 611 | 60 | 51 | 53 | 605 |
+| 360d | 2025-11-29 | 27 | 884 | 60 | 77 | 89 | 868 |
+| last720d | 2024-12-04 | 38 | 1452 | 60 | 122 | 133 | 1460 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [scaleway-cli_2.66.2_darwin_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_darwin_amd64) | 58.4 MiB | `native/darwin/x64` |
-| [scaleway-cli_2.66.2_darwin_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_darwin_arm64) | 53.9 MiB | `native/darwin/arm64` |
-| [scaleway-cli_2.66.2_freebsd_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_386) | 38.5 MiB | `other` |
-| [scaleway-cli_2.66.2_freebsd_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_amd64) | 41.2 MiB | `other` |
-| [scaleway-cli_2.66.2_freebsd_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_freebsd_arm64) | 38.0 MiB | `other` |
-| [scaleway-cli_2.66.2_linux_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386) | 53.0 MiB | `other` |
-| [scaleway-cli_2.66.2_linux_386.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386.deb) | 17.0 MiB | `other` |
-| [scaleway-cli_2.66.2_linux_386.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_386.rpm) | 17.0 MiB | `other` |
-| [scaleway-cli_2.66.2_linux_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64) | 56.6 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.2_linux_amd64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64.deb) | 18.5 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.2_linux_amd64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_amd64.rpm) | 18.5 MiB | `native/linux/x64` |
-| [scaleway-cli_2.66.2_linux_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64) | 51.8 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.2_linux_arm64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64.deb) | 16.5 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.2_linux_arm64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_linux_arm64.rpm) | 16.5 MiB | `native/linux/arm64` |
-| [scaleway-cli_2.66.2_windows_386.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_386.exe) | 54.5 MiB | `native/win/x64` |
-| [scaleway-cli_2.66.2_windows_amd64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_amd64.exe) | 57.8 MiB | `native/win/x64` |
-| [scaleway-cli_2.66.2_windows_arm64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/scaleway-cli_2.66.2_windows_arm64.exe) | 52.3 MiB | `native/win/arm64` |
-| [SHA256SUMS](https://github.com/scaleway/scaleway-cli/releases/download/v2.66.2/SHA256SUMS) | 1.7 KiB | `other` |
+| [scaleway-cli_2.67.0_darwin_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_darwin_amd64) | 58.5 MiB | `native/darwin/x64` |
+| [scaleway-cli_2.67.0_darwin_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_darwin_arm64) | 53.9 MiB | `native/darwin/arm64` |
+| [scaleway-cli_2.67.0_freebsd_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_freebsd_386) | 38.5 MiB | `other` |
+| [scaleway-cli_2.67.0_freebsd_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_freebsd_amd64) | 41.2 MiB | `other` |
+| [scaleway-cli_2.67.0_freebsd_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_freebsd_arm64) | 38.1 MiB | `other` |
+| [scaleway-cli_2.67.0_linux_386](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_386) | 53.0 MiB | `other` |
+| [scaleway-cli_2.67.0_linux_386.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_386.deb) | 17.0 MiB | `other` |
+| [scaleway-cli_2.67.0_linux_386.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_386.rpm) | 17.0 MiB | `other` |
+| [scaleway-cli_2.67.0_linux_amd64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_amd64) | 56.6 MiB | `native/linux/x64` |
+| [scaleway-cli_2.67.0_linux_amd64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_amd64.deb) | 18.5 MiB | `native/linux/x64` |
+| [scaleway-cli_2.67.0_linux_amd64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_amd64.rpm) | 18.5 MiB | `native/linux/x64` |
+| [scaleway-cli_2.67.0_linux_arm64](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_arm64) | 51.8 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.67.0_linux_arm64.deb](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_arm64.deb) | 16.5 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.67.0_linux_arm64.rpm](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_linux_arm64.rpm) | 16.5 MiB | `native/linux/arm64` |
+| [scaleway-cli_2.67.0_windows_386.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_windows_386.exe) | 54.5 MiB | `native/win/x64` |
+| [scaleway-cli_2.67.0_windows_amd64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_windows_amd64.exe) | 57.8 MiB | `native/win/x64` |
+| [scaleway-cli_2.67.0_windows_arm64.exe](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/scaleway-cli_2.67.0_windows_arm64.exe) | 52.3 MiB | `native/win/arm64` |
+| [SHA256SUMS](https://github.com/scaleway/scaleway-cli/releases/download/v2.67.0/SHA256SUMS) | 1.7 KiB | `other` |
 
 ## 发行版状态
 
@@ -98,4 +98,4 @@ scaleway-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:43:33Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:42:15Z._
