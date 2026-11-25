@@ -1,0 +1,165 @@
+about:
+  description: "Command Line Interface for Scaleway"
+  license: Apache-2.0
+  homepage: https://cli.scaleway.com
+  head: 0202764
+  archived: false
+  latestVersion: "v2.67.0"
+  latestRelease: "v2.67.0"
+  latestPrerelease: "v2.0.0-beta.4"
+  collectedAt: 2026-11-25T09:16:06Z
+timeline:
+  created: 2015-03-20
+  lastCommit: 2026-11-25
+  lastVersion: 2026-11-23
+  lastRelease: 2026-11-23
+  lastPrerelease: 2020-06-08
+popularity:
+  star: 1029
+  watcher: 21
+  fork: 174
+  release: 122
+  contributor: 89
+  pullRequest: 5776
+  issue: 1127
+language:
+  Go: 4479924
+  JavaScript: 19104
+  Go Template: 6992
+  Shell: 2570
+  PowerShell: 1834
+  Dockerfile: 184
+totalBytes: 4510608
+recent:
+  last30d:
+    since: 2026-10-26
+    release: 4
+    mergedPR: 122
+    openPR: 22
+    closedIssue: 7
+    openIssue: 22
+    commit: 112
+  last60d:
+    since: 2026-09-26
+    release: 9
+    mergedPR: 254
+    openPR: 37
+    closedIssue: 27
+    openIssue: 38
+    commit: 251
+  last90d:
+    since: 2026-08-27
+    release: 10
+    mergedPR: 364
+    openPR: 41
+    closedIssue: 35
+    openIssue: 44
+    commit: 361
+  last180d:
+    since: 2026-05-29
+    release: 16
+    mergedPR: 615
+    openPR: 42
+    closedIssue: 51
+    openIssue: 53
+    commit: 611
+  last360d:
+    since: 2025-11-30
+    release: 27
+    mergedPR: 890
+    openPR: 42
+    closedIssue: 77
+    openIssue: 89
+    commit: 874
+  last720d:
+    since: 2024-12-05
+    release: 38
+    mergedPR: 1455
+    openPR: 42
+    closedIssue: 122
+    openIssue: 133
+    commit: 1464
+total:
+  release: 122
+  mergedPR: 3644
+  openPR: 42
+  closedIssue: 895
+  openIssue: 232
+  commit: 3358
+---
+path: /home/runner/.x-repo/github.com/scaleway/scaleway-cli
+collectedAt: 2026-11-25T09:16:16Z
+loc:
+  Yaml:
+    code: 341495
+    comments: 0
+    blanks: 0
+    files: 2127
+  Go:
+    code: 146942
+    comments: 4809
+    blanks: 15014
+    files: 657
+  Json:
+    code: 882
+    comments: 0
+    blanks: 0
+    files: 3
+  Toml:
+    code: 455
+    comments: 6
+    blanks: 33
+    files: 2
+  Sh:
+    code: 62
+    comments: 7
+    blanks: 18
+    files: 1
+  JavaScript:
+    code: 56
+    comments: 9
+    blanks: 13
+    files: 4
+  TypeScript:
+    code: 40
+    comments: 0
+    blanks: 6
+    files: 3
+  PowerShell:
+    code: 19
+    comments: 10
+    blanks: 13
+    files: 1
+  Css:
+    code: 11
+    comments: 0
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 9
+    comments: 0
+    blanks: 3
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 20203
+    blanks: 14588
+    files: 75
+total:
+  code: 491828
+  comments: 25166
+  blanks: 29741
+  files: 2878
+---
+
+---
